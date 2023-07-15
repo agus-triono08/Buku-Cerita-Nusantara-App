@@ -2,7 +2,7 @@
 Membuat Aplikasi Buku Cerita Nusantara dengan API + RecylerView | Android Studio | Kotlin
 
 # Sumber API
-Link Sendiri
+Silahkan Extrak StoryAPI.rar
 
 # Tutorial Build with Android Studio
 Sabar ya lagi ngedit
